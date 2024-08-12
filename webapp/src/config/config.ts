@@ -9,7 +9,7 @@ declare global {
                 signInRedirectURL: string;
                 signOutRedirectURL: string;
                 clientID: "SWzWyQeLL4Z0zf4rBfhgDsbhioIa";
-                baseUrl: "https://api.asgardeo.io/t/{d03ccbe7-882a-4bde-899f-484e0978880b}";
+                baseUrl: "https://api.asgardeo.io/t/{orgvsxsi}";
             };
         }
     }
